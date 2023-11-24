@@ -1,17 +1,21 @@
 # 💫 About Me:
-# Hey there, fellow wanderer! 👋
+Hey there, fellow wanderer! 👋
 
-<br><br>Welcome to the realm of 0xmilord's code enchantments, where bits and bytes converge to create digital magic! 🚀<br><br>## About Me<br>- 👀 I’m 0xmilord, a fearless explorer of the vast and wild landscapes of programming.<br>- 🌱 I’m currently cultivating my programming wizardry, growing my skills and expanding my knowledge.
-<br>
-💞️ I’m always on the lookout for fellow sorcerers and sorceresses to collaborate on epic coding quests.
-<br>
+Welcome to the realm of 0xmilord's code enchantments, where bits and bytes converge to create digital magic! 🚀
 
-<br>
-## Interests<br>In the mystical land of code, I find joy in the rhythmic dance of algorithms, the symphony of function calls, and the thrill of solving puzzles with the wave of my keyboard.<br><br>## Learning Journey<br>Currently, I'm delving into the arcane arts of [insert what you're learning], seeking to unlock new levels of programming prowess.<br>
-<br>
+## About Me
+- 👀 I’m 0xmilord, a fearless explorer of the vast and wild landscapes of programming.
+- 🌱 I’m currently cultivating my programming wizardry, growing my skills, and expanding my knowledge.
+- 💞️ I’m always on the lookout for fellow sorcerers and sorceresses to collaborate on epic coding quests.
 
-## Collaboration<br>If you're a brave soul ready to embark on a coding adventure, join forces with me! Together, we can cast spells in Python, summon entities in JavaScript, and navigate the decentralized realms of web3.
-<br>
+## Interests
+In the mystical land of code, I find joy in the rhythmic dance of algorithms, the symphony of function calls, and the thrill of solving puzzles with the wave of my keyboard.
+
+## Learning Journey
+Currently, I'm delving into the arcane arts of [insert what you're learning], seeking to unlock new levels of programming prowess.
+
+## Collaboration
+If you're a brave soul ready to embark on a coding adventure, join forces with me! Together, we can cast spells in Python, summon entities in JavaScript, and navigate the decentralized realms of web3.
 
 
 ## 🌐 Socials:
