@@ -7,6 +7,17 @@ Welcome to the realm of 0xmilord's code enchantments, where bits and bytes conve
 - 🌱 I’m currently cultivating my programming wizardry, growing my skills and expanding my knowledge.
 - 💞️ I’m always on the lookout for fellow sorcerers and sorceresses to collaborate on epic coding quests.
 
+  ## My Polyglot Arsenal 🧙‍♂️✨
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Solidity-%23339933.svg?&style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+</div>
+
 ## Interests
 In the mystical land of code, I find joy in the rhythmic dance of algorithms, the symphony of function calls, and the thrill of solving puzzles with the wave of my keyboard.
 
